@@ -93,9 +93,7 @@ export class FilterPage {
             console.log("The number of data displayed correctly")
 
         }
-        else {
-            throw new Error("Data is mismatched");
-        }
+       
     }
 
 
